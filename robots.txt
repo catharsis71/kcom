@@ -1,5 +1,6 @@
 ﻿
 Sitemap: https://kamistik.com/sitemap.txt
 Sitemap: https://photobuckets.kamistik.com/sitemap.xml
+Sitemap: https://wish.kamistik.com/sitemap.xml
 
 #perpetuate the great circlejerk of drama
