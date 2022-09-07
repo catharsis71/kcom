@@ -4,6 +4,7 @@ https://kamistik.com/gallery2/
 https://kamistik.com/pasta2
 https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
+https://kamistik.com/selling.txt
 https://kamistik.com/sitemap.txt
 https://photobuckets.kamistik.com/
 https://photobuckets.kamistik.com/cgi-bin/classic.rb
